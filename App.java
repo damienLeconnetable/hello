@@ -23,7 +23,7 @@ public class App
     public static void main( String[] args )
     {
     	
-    	helloCall(" Yes c'est 2 Génial");
+    	helloCall(" Yes c'est Génial");
    
     	
     }
