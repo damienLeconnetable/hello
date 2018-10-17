@@ -13,9 +13,7 @@ public class App
     {
 		String str = new String();
 		str = "La Factory c'est super !"+ chose;
-		
-		
-			System.out.println( str );
+		System.out.println( str );
 			
     }
  
@@ -23,7 +21,7 @@ public class App
     public static void main( String[] args )
     {
     	
-    	helloCall(" Yes c'est Génial");
+    	helloCall(" it's working");
    
     	
     }
