@@ -21,7 +21,7 @@ public class App
     public static void main( String[] args )
     {
     	
-    	helloCall(" it's working now FR");
+    	helloCall(" it's working now");
    
     	
     }
